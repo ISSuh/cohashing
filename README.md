@@ -1,1 +1,3 @@
-# consistence-hash
+# cohashing
+
+implement consistent hashing using golang
