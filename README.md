@@ -25,7 +25,7 @@ use default hash(sha1)
 
 ```golang
 pakcage (
-    "github.com/ISSuh/cohashing"
+    cohashing "github.com/ISSuh/cohashing"
 )
 
 type node struct {
@@ -54,7 +54,7 @@ set replicae nums or use user selected hash
 
 ```golang
 pakcage (
-    "github.com/ISSuh/cohashing"
+    cohashing "github.com/ISSuh/cohashing"
 )
 
 type node struct {
